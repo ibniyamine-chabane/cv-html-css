@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+* {
+    font-family: 'Carter One', cursive;
+}
+.head-cv {
+    background-color: #ECECEC;
+    border-style: solid;
+    width: 100%;
+    display: flex;
+}
+
+.profil-image img {
+    border-style: solid;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin: 15px;
+    /*background-image: url("https://media-exp1.licdn.com/dms/image/C4D03AQFT8navVi_XTQ/profile-displayphoto-shrink_800_800/0/1538328089922?e=1672272000&v=beta&t=1jWpNX2vPmDD6t1sM_vLs3_zTQdY0Vx7Xy_0K2dWclo");*/
+}
+
+ul.navigation {
+    display: flex;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    flex-direction: row;
+    justify-content: center;
+    
+}  
+
+a {
+    display: block;
+    text-decoration: none;
+    margin: 15px;
+}
+
+nav {
+    border-style: solid;
+    border: black;
+    height: 12px;
+    width: 100%;
+}
+
+.img-bg {
+    width: 100%;
+    height: 100%;
+
+}
+
+.box-bg {
+    border-style: solid;
+    width: 100%;
+    height: 310px;
+}
+
+section {
+    padding: 50px;
+}
+
+aside {
+    height: 60px;
+    width: 70px;
+    border-style: solid;
+} 
+
+section {
+    border-style: solid;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {   
+    height: 100%;
+    width: 100%;
+}
+
+aside {
+    height: 330px;
+    width: 405px;
+    border-style: solid;
+}
+
+.presentation {  
+    width: 620px;
+    height: 310px;
+    border-style: solid;
+}
+
+.presentation-box {
+    width: 100%;
+    height: 400px;
+    border-style: solid;
+    justify-content: spa;
+}
+
+.flex {
+    display: flex;
+}
+
