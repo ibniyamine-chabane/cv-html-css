@@ -4,13 +4,13 @@
 }
 .head-cv {
     background-color: #ECECEC;
-    border-style: solid;
+    /*border-style: solid;*/
     width: 100%;
     display: flex;
 }
 
 .profil-image img {
-    border-style: solid;
+    /*border-style: solid;*/
     border-radius: 50%;
     height: 50px;
     width: 50px;
@@ -36,7 +36,7 @@ a {
 }
 
 nav {
-    border-style: solid;
+    /*border-style: solid;*/
     border: black;
     height: 55px;
     width: 100%;
@@ -62,7 +62,7 @@ li a:hover {
 }
 
 .box-bg {
-    border-style: solid;
+    /*border-style: solid;*/
     width: 100%;
     height: 310px;
 }
@@ -73,13 +73,13 @@ main {
 
 section {
     padding: 50px;
-    border-style: solid;
+    /*border-style: solid;*/
 }
 
 aside {
     height: 60px;
     width: 70px;
-    border-style: solid;
+    /*border-style: solid;*/
 } 
 
 h2 {
@@ -94,19 +94,19 @@ img {
 aside {
     height: 330px;
     width: 405px;
-    border-style: solid;
+    /*border-style: solid;*/
 }
 
 .presentation {  
     width: 620px;
     height: 310px;
-    border-style: solid;
+    /*border-style: solid;*/
 }
 
 .presentation-box {
     width: 100%;
     height: 100%;
-    border-style: solid;
+    /*border-style: solid;*/
     justify-content: space-between;
 }
 
@@ -117,7 +117,7 @@ aside {
 .formation-box {
     width: 100%;
     height: 100%;
-    border-style: solid;
+    /*border-style: solid;*/
     
     font-size: 13px;
 }
@@ -129,7 +129,7 @@ aside {
 .expro-box {
     width: 100%;
     height: 100%;
-    border-style: solid;
+    /*border-style: solid;*/
     font-size: 13px;
 }
 
@@ -142,11 +142,11 @@ aside {
 .image-box {
     width: 150px;
     height: 150px;
-    border-style: solid;
+    /*border-style: solid;*/
 }
 
 footer {
-    border-style: solid;
+   /* border-style: solid;*/
     text-align: center;
     background-color: #DADADA;
 }
