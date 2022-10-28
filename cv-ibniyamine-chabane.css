@@ -2,6 +2,17 @@
 * {
     font-family: 'Carter One', cursive;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+header {
+    width: 100%;
+}
+
 .head-cv {
     background-color: #ECECEC;
     /*border-style: solid;*/
@@ -72,8 +83,8 @@ main {
 }
 
 section {
-    padding: 50px;
-    /*border-style: solid;*/
+    padding-top: 50px;
+    width: 100%;
 }
 
 aside {
@@ -104,10 +115,13 @@ aside {
 }
 
 .presentation-box {
-    width: 100%;
+    width: 88%;
     height: 100%;
-    /*border-style: solid;*/
+    /* border-style: solid; */
     justify-content: space-between;
+    padding-top: 35px;
+    padding-bottom: 60px;
+    margin: auto;
 }
 
 .flex {
@@ -115,27 +129,35 @@ aside {
 }
 
 .formation-box {
-    width: 100%;
+    width: 88%;
     height: 100%;
-    /*border-style: solid;*/
-    
+    /* border-style: solid; */
+    margin: auto;
     font-size: 13px;
+    padding-bottom: 25px
 }
 
 .form-image-box {
     margin-left: 30%;
 }
 
-.expro-box {
-    width: 100%;
+.expro-box {    
+    width: 88%;
     height: 100%;
-    /*border-style: solid;*/
+    /* border-style: solid; */
+    padding-top: 15px;
+    margin: auto;
     font-size: 13px;
+    padding-bottom: 55px;
 }
 
 .image-container {
     justify-content: space-between;
-    margin-top: 50px;
+    width: 65%;
+    margin-top: 56px;
+    margin: auto;
+    padding-bottom: 93px;
+    padding-top: 52px;
     
 }
 
@@ -149,6 +171,12 @@ footer {
    /* border-style: solid;*/
     text-align: center;
     background-color: #DADADA;
+    padding-bottom: 1px;
+}
+
+footer p {
+    margin-top: 1px;
+    padding-top: 14px;
 }
 
 .color-section1 {
@@ -159,4 +187,20 @@ footer {
     background-color: #FCFCFC;
 }
 
+.projets {
+    width: 100%;
+}
 
+.cv-html-css {
+    width: 80%;
+    height: 87px;
+    /*background-color: aqua;*/
+    padding: 8px;
+    margin: auto;
+    margin-top: 42px;
+    box-shadow: 0px 0px 30px #88888838;
+}
+
+.mrgbtm {
+    margin-bottom: 56px;
+}
